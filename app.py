@@ -524,7 +524,7 @@ with tab_tolerant:
 
 # --- Tab G: Inference ---
 with tab_inference:
-    st.subheader("Inference and discussion (compulsory)")
+    st.subheader("Inference and discussion")
     st.markdown(
         """
         ### Summary of experimental findings
